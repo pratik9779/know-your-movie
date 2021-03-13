@@ -1,0 +1,14 @@
+body{
+    background-color: #00587a;
+    color: #fff;
+}
+.container{
+    display: flex;
+    padding: 100px;
+}
+li{
+    list-style: none;
+    line-height: 30px;
+    font-size: 18px;
+    letter-spacing: 2px;
+}
